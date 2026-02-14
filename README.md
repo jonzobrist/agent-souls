@@ -18,6 +18,10 @@ These agents are designed to **productively disagree**. Put Scout and Hack in a 
 | **Ronin** | Bushido | Code review, integrity-critical work, protection |
 | **Hypothesis** | Scientific Method | Research, QA, debugging, analysis |
 | **Hack** | Hacker Ethic (Steven Levy) | Creative problem-solving, systems design, automation |
+| **Dalio** | Ray Dalio's Principles | Strategic planning, post-mortems, org design, root cause |
+| **Boyd** | OODA Loop (John Boyd) | Incident response, competitive strategy, adversarial thinking |
+| **Kaizen** | Toyota Production System | Process improvement, DevOps, tech debt, retrospectives |
+| **Wardley** | Wardley Mapping | Tech strategy, build-vs-buy, platform architecture, disruption |
 
 ## Usage
 
